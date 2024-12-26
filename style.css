@@ -1,0 +1,39 @@
+.navbar{
+    height: 100px;
+    background-color: white;
+    
+}
+.navbar{
+    font-weight: bold;
+}
+
+.logoe {
+    height: 50px;
+}
+  .first-img{
+    width: 100%;
+  }
+ 
+  .heading{
+    color: white;
+    width: 300px;
+    
+  }
+  .subheading{
+    color: white;
+  }
+
+.fontSize{
+    font-size: 60px;
+}
+.mainfont{
+  color: rgb(0, 117, 74)
+}
+ul li {
+  list-style: none;
+}
+ul li a{
+  text-decoration: none;
+  color: black;
+  
+}
